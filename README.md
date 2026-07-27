@@ -3,12 +3,6 @@
 A Windows tool for spoofing the TPM 2.0 Endorsement Key (EK) by modifying persistent handles.  
 Built using the `go-tpm (legacy)` library.
 
-This tool performs operations similar to the Linux `tpm2_evictcontrol` command.
-
-> ⚠️ WARNING:
-> - This tool performs low-level TPM operations.
-> - A **TPM CLEAR is REQUIRED before spoofing**.
-
 ---
 
 ## Features
