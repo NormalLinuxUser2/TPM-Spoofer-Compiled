@@ -7,20 +7,6 @@ Built using the `go-tpm` library.
 
 ---
 
-## Features
-
-- Manage TPM 2.0 persistent handles
-- Modify Endorsement Key (EK) handle
-
----
-
-## Requirements
-
-- Go 1.19 or higher
-- TPM 2.0 enabled
-- Administrator privileges
-
----
 
 ## ⚠️ REQUIRED: TPM CLEAR (BEFORE SPOOFING)
 
