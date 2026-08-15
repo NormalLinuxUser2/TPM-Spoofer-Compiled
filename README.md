@@ -1,7 +1,7 @@
 # TPM-Spoofer
 
 (updated // 8/15/2026)
--
+<br>
 A Windows tool for spoofing the TPM 2.0 Endorsement Key (EK) by modifying persistent handles.  
 Built using the `go-tpm` library.
 
