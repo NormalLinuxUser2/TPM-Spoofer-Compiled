@@ -42,9 +42,7 @@ USAGE: https://www.youtube.com/watch?v=AUCJlpRXFKA
 ```cmd
 go mod init tpm-spoof
 
-go get github.com/google/go-tpm/legacy/tpm2
-
-go get github.com/google/go-tpm/tpmutil
+go get github.com/google/go-tpm/tpm2
 
 go mod tidy
 
